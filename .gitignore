@@ -1,0 +1,29 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Model files and weights
+*.h5
+*.ckpt
+*.tflite
+*.pth
+
+# OS generated
+.DS_Store
+Thumbs.db
